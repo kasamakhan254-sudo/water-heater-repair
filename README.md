@@ -4,3 +4,6 @@
   alt="Professional home repair service"
   style="width:100%;max-width:900px;height:auto;border-radius:12px;"
 >
+<a class="button" href="tel:+1YOURNUMBER">
+  Call Now
+</a>
